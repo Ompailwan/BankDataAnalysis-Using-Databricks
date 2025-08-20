@@ -188,7 +188,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-<div align="center">
+<div align="center"> 
 
 ⭐ **Star this repo if you found it helpful!** ⭐
 
